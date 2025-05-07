@@ -1,6 +1,6 @@
 # simplyaboveaverage — Full Pipeline Overview
 
-**simplyaboveaverage** is a fashion-tech platform helping people with extended sizes find clothes that fit. This repository contains the full backend and frontend pipeline used to source product data, clean and structure it, store it in a database, and deliver it to users through a filtered shopping experience.
+**simplyaboveaverage** is a fashion-tech platform helping tall people find clothes that fit. This repository contains the full backend and frontend pipeline used to source product data, clean and structure it, store it in a database, and deliver it to users through a filtered shopping experience.
 
 ---
 
